@@ -20,7 +20,8 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-🚀 Usage
+
+#🚀 Usage
 Run the script using:
 python tweet_search_download.py
 You will be prompted to enter:
