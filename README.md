@@ -19,35 +19,3 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-
-#🚀 Usage
-Run the script using:
-python tweet_search_download.py
-You will be prompted to enter:
-
-The search keyword
-
-The number of tweets to fetch
-
-The output file name
-
-Tweets will be saved to the specified CSV file.
-
-📁 Output
-The CSV file contains:
-
-Date
-
-Tweet content
-
-Username
-
-Tweet ID
-
-URL
-
-📌 Notes
-This tool uses snscrape, which does not require Twitter API keys.
-
-Only publicly available tweets are fetched.
